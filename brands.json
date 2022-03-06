@@ -1,0 +1,91 @@
+{
+    "brands": [
+        {"brand":"Acuro","models":[
+            {"model":"CL","type":"economy"},
+            {"model":"EL","type":"economy"},
+            {"model":"ILX","type":"economy"},
+            {"model":"MDX","type":"economy"},
+            {"model":"RLX","type":"economy"},
+            {"model":"TL","type":"economy"},
+            {"model":"TLX","type":"economy"}
+         ]},
+         {"brand":"Aerospatiale","models":[
+            {"model":"AS.350","type":"Helicopter"},
+            {"model":"AS.355","type":"Helicopter"}
+         ]},
+         {"brand":"Agusta","models":[
+            {"model":"AW109","type":"Helicopter"},
+            {"model":"AW119","type":"Helicopter"},
+            {"model":"AW139","type":"Helicopter"}
+         ]},
+         {"brand":"Airbus","models":[
+            {"model":"H125","type":"Helicopter"},
+            {"model":"ACH145","type":"Helicopter"},
+            {"model":"AS 350 B3","type":"Helicopter"},
+            {"model":"AS350","type":"Helicopter"},
+            {"model":"AS355","type":"Helicopter"},
+            {"model":"AS365 Dauphin","type":"Helicopter"},
+            {"model":"EC120","type":"Helicopter"},
+            {"model":"EC130","type":"Helicopter"},
+            {"model":"EC130 B4","type":"Helicopter"},
+            {"model":"EC135","type":"Helicopter"},
+            {"model":"EC145 T2","type":"Helicopter"},
+            {"model":"EC155","type":"Helicopter"},
+            {"model":"EC175","type":"Helicopter"},
+            {"model":"H130","type":"Helicopter"},
+            {"model":"H145","type":"Helicopter"},
+            {"model":"H155","type":"Helicopter"}
+         ]},
+         {"brand":"Airways","models":[
+            {"model":"U5","type":"SUV"}
+         ]},
+         {"brand":"Alfa Romeo","models":[
+            {"model":"147","type":"Economy"},
+            {"model":"156","type":"Economy"},
+            {"model":"159","type":"Comfort"},
+            {"model":"169","type":"Business"},
+            {"model":"GT","type":"Economy"},
+            {"model":"Giulia","type":"Business"},
+            {"model":"Giulietta","type":"Comfort"},
+            {"model":"MiTo","type":"Economy"},
+            {"model":"Stelvio","type":"SUV"}
+         ]},
+         {"brand":"Aston Martin","models":[
+            {"model":"Cygnet","type":"Economy"},
+            {"model":"DB9","type":"Premium"}
+         ]},
+         {"brand":"ATR","models":[
+            {"model":"42-500","type":"Airplane"},
+            {"model":"72-212A","type":"Airplane"}
+         ]},
+         {"brand":"Audi","models":[
+            {"model":"100","type":"Economy"},
+            {"model":"A1","type":"Economy"},
+            {"model":"A2","type":"Economy"},
+            {"model":"A3 Cabriolet","type":"Economy"},
+            {"model":"A3 Hatchback","type":"Economy"},
+            {"model":"A3 Sedan","type":"Economy"},
+            {"model":"A4","type":"Business"},
+            {"model":"A4 Cabriolet","type":"Business"},
+            {"model":"A4 Station Wagon","type":"Business"},
+            {"model":"A5","type":"Business"},
+            {"model":"A5 Cabriolet","type":"Business"},
+            {"model":"A5 Sportback","type":"Business"},
+            {"model":"A6 Station Wagon","type":"Business"},
+            {"model":"A7","type":"Premium"},
+            {"model":"A8","type":"Premium"},
+            {"model":"A8 Long","type":"VIP"},
+            {"model":"E-TRON","type":"SUV"},
+            {"model":"Q2","type":"SUV"},
+            {"model":"Q3","type":"SUV"},
+            {"model":"Q5","type":"SUV"},
+            {"model":"Q7","type":"SUV"},
+            {"model":"Q8","type":"SUV"},
+            {"model":"R8","type":"Premium"},
+            {"model":"RS3","type":"Economy"},
+            {"model":"S3","type":"Economy"},
+            {"model":"TT","type":"Business"},
+            {"model":"TT Roadster","type":"Business"}
+         ]}
+    ]
+}
