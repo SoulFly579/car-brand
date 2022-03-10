@@ -86,6 +86,164 @@
             {"model":"S3","type":"Economy"},
             {"model":"TT","type":"Business"},
             {"model":"TT Roadster","type":"Business"}
-         ]}
+         ]},
+         {"brand":"Baic","models":[
+            {"model":"A115","type":"Economy"},
+            {"model":"Beijing BJ20","type":"SUV"},
+            {"model":"EX","type":"Comfort"},
+            {"model":"Kenbo S3","type":"SUV"},
+            {"model":"X55","type":"SUV"}
+         ]},
+         {
+            "brand":"Barbi", "models":[
+               {"model":"Galileo","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"BAW", "models":[
+               {"model":"Sasuka","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Beechcraft", "models":[
+               {"model":"B200 King Air","type":"Airplane"},
+               {"model":"Bonanza","type":"Airplane"}
+            ]
+         },
+         {
+            "brand":"Beechcraft", "models":[
+               {"model":"B200 King Air","type":"Airplane"},
+               {"model":"Bonanza","type":"Airplane"}
+            ]
+         },
+         {
+            "brand":"Beijing", "models":[
+               {"model":"BJ 80","type":"SUV"},
+               {"model":"BJ 2021","type":"SUV"},
+               {"model":"BJ 212","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Bell", "models":[
+               {"model":"206","type":"Helicopter"},
+               {"model":"407","type":"Helicopter"},
+               {"model":"429","type":"Helicopter"},
+               {"model":"505","type":"Helicopter"}
+            ]
+         },
+         {
+            "brand":"Benimar", "models":[
+               {"model":"Mileo","type":"Minibus"}
+            ]
+         },
+         {
+            "brand":"Bentley", "models":[
+               {"model":"Arnage","type":"VIP"},
+               {"model":"Bentayga","type":"SUV"},
+               {"model":"Continental","type":"VIP"},
+               {"model":"Continental Flying Spur","type":"VIP"},
+               {"model":"Continental GT","type":"VIP"},
+               {"model":"Flying Spur","type":"VIP"},
+               {"model":"Mulsanne","type":"VIP"}
+            ]
+         },
+         {
+            "brand":"BMC", "models":[
+               {"model":"Probus","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"BMW", "models":[
+               {"model":"1 Series","type":"Economy"},
+               {"model":"2 Gran Coupe","type":"Economy"},
+               {"model":"2 Series","type":"Economy"},
+               {"model":"2 Series Convertible","type":"Economy"},
+               {"model":"2 Series Gran Tourer","type":"Comfort"},
+               {"model":"2 Series Gran Tourer 7 seats","type":"SUV"},
+               {"model":"3 Series","type":"Comfort"},
+               {"model":"3 Series Coupe","type":"Comfort"},
+               {"model":"3 Series Gran Turismo","type":"Comfort"},
+               {"model":"3 Series Station Wagon","type":"Comfort"},
+               {"model":"4 Series","type":"Comfort"},
+               {"model":"4 Series Convertible","type":"Comfort"},
+               {"model":"4 Series Gran Coupe","type":"Business"},
+               {"model":"5 Series","type":"Business"},
+               {"model":"5 Series Gran Turismo","type":"Business"},
+               {"model":"5 Series Station Wagon","type":"Business"},
+               {"model":"6 Series","type":"Business"},
+               {"model":"6 Series Gran Coupe","type":"Premium"},
+               {"model":"7 Series","type":"Premium"},
+               {"model":"7 Series Long","type":"VIP"},
+               {"model":"8 Series","type":"Premium"},
+               {"model":"Touring","type":"Comfort"},
+               {"model":"X1","type":"SUV"},
+               {"model":"X2","type":"SUV"},
+               {"model":"X3","type":"SUV"},
+               {"model":"X4","type":"SUV"},
+               {"model":"X5","type":"SUV"},
+               {"model":"X6","type":"SUV"},
+               {"model":"X7","type":"SUV"},
+               {"model":"Z4 Cabriolet","type":"Economy"},
+               {"model":"i3","type":"Comfort"},
+               {"model":"i8","type":"Premium"}
+            ]
+         },
+         {
+            "brand":"Boeing","models":[
+               {"model":"737-800","type":"Airplane"}
+            ]
+         },
+         {
+            "brand":"Bombardier","models":[
+               {"model":"Challenger 300","type":"Airplane"},
+               {"model":"Challenger 650","type":"Airplane"},
+               {"model":"Challenger 850","type":"Airplane"},
+               {"model":"Global 5000","type":"Airplane"},
+               {"model":"Global 5500","type":"Airplane"},
+               {"model":"Global 6000","type":"Airplane"},
+               {"model":"Global Express","type":"Airplane"},
+               {"model":"Learjet 35","type":"Airplane"},
+               {"model":"Learjet 45","type":"Airplane"},
+               {"model":"Learjet 60","type":"Airplane"}
+            ]
+         },
+         {
+            "brand":"Bova","models":[
+               {"model":"Futura FHD","type":"Bus"},
+               {"model":"Lexio","type":"Bus"},
+               {"model":"Magiq MHD","type":"Bus"}
+            ]
+         },
+         {
+            "brand":"Bova","models":[
+               {"model":"BS4","type":"Econmy"},
+               {"model":"H530","type":"Comfort"},
+               {"model":"Huasong 7","type":"Van"}
+               {"model":"V5","type":"SUV"}
+            ]
+         },
+         {
+            "brand":"Bugatti","models":[
+               {"model":"Veyron","type":"VIP"}
+            ]
+         },
+         {
+            "brand":"Buick","models":[
+               {"model":"Century","type":"Economy"},
+               {"model":"Enclave","type":"SUV"},
+               {"model":"Encore","type":"Comfort"},
+               {"model":"GL8","type":"Van"},
+               {"model":"LaCrosse","type":"Comfort"},
+               {"model":"Lucerne","type":"Economy"},
+               {"model":"Verano","type":"Comfort"}
+            ]
+         },
+         {
+            "brand":"BYD","models":[
+               {"model":"F3","type":"Economy"},
+               {"model":"F5","type":"Comfort"},
+               {"model":"G6","type":"Comfort"}
+            ]
+         }
     ]
 }
