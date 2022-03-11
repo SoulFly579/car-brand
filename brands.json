@@ -244,6 +244,24 @@
                {"model":"F5","type":"Comfort"},
                {"model":"G6","type":"Comfort"}
             ]
+         },
+         {
+            "brand":"Cadillac","models":[
+               {"model":"ATS","type":"Business"},
+               {"model":"BLS","type":"Business"},
+               {"model":"CT6","type":"Premium"}
+               {"model":"CTS","type":"Business"}
+               {"model":"CTS Limousine","type":"Business"}
+               {"model":"DTS","type":"Comfort"}
+               {"model":"Escalade","type":"SUV"}
+               {"model":"Escalade Limousine","type":"SUV"}
+               {"model":"SRX","type":"SUV"}
+               {"model":"STS","type":"Business"}
+               {"model":"XLR","type":"Business"}
+               {"model":"XT5","type":"SUV"}
+               {"model":"XT6","type":"SUV"}
+               {"model":"XTS","type":"Business"}
+            ]
          }
     ]
 }
