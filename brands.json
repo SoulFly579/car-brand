@@ -809,70 +809,7 @@
                {"model":"G-IV","type":"Airplane"},
                {"model":"G-V","type":"Airplane"}
             ]
-         },
-         
-         
-         
-         
-         
-         
-         
-
-
-
-
-
-
-
-
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
-         {
-            "brand":"Dacia","models":[
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-               {"model":"200","type":"Comfort"},
-            ]
-         },
+         }
     ]
 }
 
